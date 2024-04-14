@@ -1,5 +1,5 @@
 ![Obanai Bot](https://te.legra.ph/file/ba785b585d3b7ef533556.jpg)
-# Yui-Chan // @YuiiChanBot
+# Obanai BOT // @Obanai_ProBot
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Dank-del/)</br>
