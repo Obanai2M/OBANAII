@@ -1,4 +1,4 @@
-![YuiiChan](https://telegra.ph/file/69a84b4548087b06afef4.jpg)
+![Obanai Bot](https://te.legra.ph/file/ba785b585d3b7ef533556.jpg)
 # Yui-Chan // @YuiiChanBot
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
